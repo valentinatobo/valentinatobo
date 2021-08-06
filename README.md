@@ -23,16 +23,16 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 
 :speak_no_evil: Me gusta y me llama mucho la atención el diseño, hacer que las cosas se vean lindas y funcionen me emociona 😄
 
-💫 No solo me gusta el mundo de la tecnologia, también me encanta: Hacer deporte, pasear por mi país, ver series.
+💫 No solo me gusta el mundo de la tecnologia, también me encanta: Hacer deporte, pasear por mi país y ver series.
 
 ¡Soy fan de mi gata! 😻 :heart_eyes_cat:
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinatobo&show_icons=true&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinatobo&show_icons=true&theme=radical)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinatobo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinatobo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 :busts_in_silhouette: Contactame:
-    💬 Linkedin: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
+* 💬 Linkedin: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
 
 <!--
 **valentinatobo/valentinatobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
