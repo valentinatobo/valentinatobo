@@ -23,7 +23,7 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 
 :speak_no_evil: Me gusta y me llama mucho la atención el diseño, hacer que las cosas se vean lindas y funcionen me emociona 😄
 
-💫 No solo me gusta el mundo de la tecnologia entre mis hobbies favoritos esta: Hacer deporte, Pasear y ver los paisajes de mi país, ver series y probar comida diferente con mi novio.
+💫 No solo me gusta el mundo de la tecnologia, también me encanta: Hacer deporte, pasear por mi país, ver series.
 
 ¡Soy fan de mi gata! 😻 :heart_eyes_cat:
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinatobo&show_icons=true&theme=radical)
