@@ -28,7 +28,7 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 ¡Soy fan de mi gata! 😻 :heart_eyes_cat:
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinatobo&show_icons=true&theme=radical)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinatobo&layout=compact & ?hide=Less )](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinatobo&layout=compact&hide=less&langs_count=6&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 :busts_in_silhouette: Contactame:
