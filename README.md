@@ -1,6 +1,8 @@
 ![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 # ¡Hola! 👋🏼 soy Valen
 
+![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
+
 ## Desarrolladora de Front-End ✨ 
 
 💪🏼 Todos los días me reto y aprendo cosas nuevas.
@@ -33,7 +35,6 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinatobo&layout=compact&hide=less&langs_count=6&title_color=321F28&bg_color=ffd8f9,fecef7,f2c4f5,e5b9f3,d6aff2,c5a7f1,b3a0f1)](https://github.com/anuraghazra/github-readme-stats) 
 
-&title_color=e07a5f,& icon_color=edae49,&  text_color=ebcfb2
 
 ![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 
