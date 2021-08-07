@@ -1,3 +1,4 @@
+![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 # ¡Hola! 👋🏼 soy Valen
 
 ## Desarrolladora de Front-End ✨ 
@@ -21,19 +22,25 @@
 
 Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards_trend:
 
-:speak_no_evil: Me gusta y me llama mucho la atención el diseño, hacer que las cosas se vean  y funcionen me emociona 😄
+:speak_no_evil: Me gusta y me llama mucho la atención el diseño, hacer que las cosas se vean bonitas y funcionen bien me emociona 😄
 
 💫 No solo me gusta el mundo de la tecnologia, también me encanta: Hacer deporte, pasear por mi país y ver series.
 
 ¡Soy fan de mi gata! 😻 :heart_eyes_cat:
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinatobo&show_icons=true&theme=radical)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinatobo&layout=compact&hide=less&langs_count=6&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) 
+![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinatobo&layout=compact&hide=less&langs_count=6&title_color=321F28&bg_color=ffd8f9,fecef7,f2c4f5,e5b9f3,d6aff2,c5a7f1,b3a0f1)](https://github.com/anuraghazra/github-readme-stats) 
+
+&title_color=e07a5f,& icon_color=edae49,&  text_color=ebcfb2
+
+![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 
 :busts_in_silhouette: Contactame:
 * 💬 Linkedin: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
 
+![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 <!--
 **valentinatobo/valentinatobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
