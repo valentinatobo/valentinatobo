@@ -5,6 +5,8 @@
 
 ## Desarrolladora de Front-End ✨ 
 
+![fondito](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/fondo.PNG)
+
 💪🏼 Todos los días me reto y aprendo cosas nuevas.
 
 🕵 Estoy en el proceso constante de aprendizaje de lenguajes y herramientas, tales como:
