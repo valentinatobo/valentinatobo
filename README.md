@@ -42,6 +42,7 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 :busts_in_silhouette: Contactame:
 * 💬 Linkedin: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
 * 📧 Correo: dvuscategui@gmail.com
+
 **No se trata de lo que he hecho si no de lo que me encantaría hacer.✨**
 
 ![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
