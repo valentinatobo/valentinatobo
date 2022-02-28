@@ -11,18 +11,20 @@
 
 🕵 Estoy en el proceso constante de aprendizaje de lenguajes y herramientas, tales como:
 
-* Java
-* Python
-* JavaScript
-* Angular
-* CSS
-* HTML
-* Git
+
+|Java|Python|JavaScript|
+|---|---|---|
+|<img align="center" width="70px" src="https://i.imgur.com/m83whDH.png" /> |<img align="center" width="70px" src="https://i.imgur.com/r8U7aJc.png" />|<img align="center" width="70px" src="https://i.imgur.com/DVF6eDy.png" />|
+|CSS|HTML|GIT|
+|<img align="center" width="70px" src="https://i.imgur.com/HGMj9KL.png" />|<img align="center" width="70px" src="https://i.imgur.com/RRr3N9w.png" />|<img align="center" width="70px" src="https://i.imgur.com/ITQNpyD.png" />|
+
 
 👀 Actualmente estoy enfocada en aprender: 
  
-* React 
-* Bootstrap
+
+React|Bootstrap
+---|---
+<img align="center" width="70px" src="https://i.imgur.com/BtxrdnB.png" /> |<img align="center" width="70px" src="https://i.imgur.com/pXXDojX.png" />
 
 Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards_trend:
 
@@ -41,13 +43,14 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 
 # :busts_in_silhouette: Contactame:
 
-[ <img align="left" alt="ValenTobo | GMail" width="35px" src="https://i.imgur.com/ruQrUyk.png" /> ][gmail]
+[ <img align="left" alt="ValenTobo | GMail" width="50px" src="https://i.imgur.com/ruQrUyk.png" /> ][gmail]
 
-[ <img align="left" alt="ValenTobo | Linkdin" width="35px" src="https://i.imgur.com/VK9c5ga.png" /> ][linkedin]
+[ <img align="left" alt="ValenTobo | Linkdin" width="50px" src="https://i.imgur.com/VK9c5ga.png" /> ][linkedin]
 
 [ gmail ]: mailto:dvuscategui@gmail.com?Subject=Contacto
 [ linkedin ]: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
-**No se trata de lo que he hecho si no de lo que me encantaría hacer.✨**
+
+> **No se trata de lo que he hecho si no de lo que me encantaría hacer.✨**
 
 ![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 <!--
