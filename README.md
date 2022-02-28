@@ -43,7 +43,7 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 
 [ <img align="left" alt="ValenTobo | GMail" width="35px" src="https://i.imgur.com/ruQrUyk.png" /> ][gmail]
 
-[ <img align="left" alt="ValenTobo | Linkdin" width="35px" src="https://i.imgur.com/VK9c5ga.png" /> ][linkedln]
+[ <img align="left" alt="ValenTobo | Linkdin" width="35px" src="https://i.imgur.com/VK9c5ga.png" /> ][linkedin]
 
 [ gmail ]: mailto:dvuscategui@gmail.com?Subject=Contacto
 [ linkedin ]: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
