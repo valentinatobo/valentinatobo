@@ -39,10 +39,14 @@ Para mejorar y poencializarme como desarrolladora Front-end  :chart_with_upwards
 
 ![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
 
-:busts_in_silhouette: Contactame:
-* 💬 Linkedin: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
-* 📧 Correo: dvuscategui@gmail.com
+# :busts_in_silhouette: Contactame:
 
+[ <img align="left" alt="ValenTobo | GMail" width="35px" src="https://i.imgur.com/ruQrUyk.png" /> ][gmail]
+
+[ <img align="left" alt="ValenTobo | Linkdin" width="35px" src="https://i.imgur.com/VK9c5ga.png" /> ][linkedln]
+
+[ gmail ]: mailto:dvuscategui@gmail.com?Subject=Contacto
+[ linkedin ]: https://www.linkedin.com/in/diana-valentina-uscategui-tobo/
 **No se trata de lo que he hecho si no de lo que me encantaría hacer.✨**
 
 ![holi](https://github.com/valentinatobo/Ejercicios-POO-JavaScript/blob/main/img/barra.PNG)
